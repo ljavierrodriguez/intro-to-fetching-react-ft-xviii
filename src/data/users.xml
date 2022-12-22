@@ -1,0 +1,15 @@
+<libros>
+
+    <libro id="1">
+        <autor>
+            Agatha Cristie
+        </autor>
+    </libro>
+
+    <libro id="2">
+        <autor>
+            Pablo Neruda
+        </autor>
+    </libro>
+
+</libros>
